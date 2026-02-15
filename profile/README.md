@@ -1,4 +1,4 @@
-![AvivPay Banner](https://i.imgur.com/P8jEjRd.jpeg)
+![AvivPay Banner](https://i.imgur.com/vkUiaUY.png)
 
 Bem-vindo ao repositório oficial da **AvivPay** — uma **instituição de pagamentos** que une tecnologia de ponta e experiência financeira para transformar a forma como você gerencia seu dinheiro.
 
